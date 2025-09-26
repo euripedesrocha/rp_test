@@ -30,3 +30,5 @@ release-please infers changes from commit messages. Use conventional commit type
 - To force a specific version, add `Release-As: X.Y.Z` in a commit footer, or set `release-as` in the config for a one-off.
 
 Notes: testing release-please behavior with multiple branches.
+
+CI: placeholder for future CI steps.
