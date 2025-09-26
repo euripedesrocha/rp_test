@@ -28,3 +28,5 @@ release-please infers changes from commit messages. Use conventional commit type
 - Ensure GitHub Actions are enabled in this mirror and the `google-github-actions/release-please-action` has permissions.
 - Merge the release PR on GitHub (not GitLab) so tags and release notes are public here.
 - To force a specific version, add `Release-As: X.Y.Z` in a commit footer, or set `release-as` in the config for a one-off.
+
+Notes: testing release-please behavior with multiple branches.
